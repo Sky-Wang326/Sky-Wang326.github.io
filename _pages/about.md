@@ -77,7 +77,7 @@ to be appear at [NeurIPS 2024](https://neurips.cc/)
 
 <!-- -------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HCCS 2022/div><img src='images/paper_thumbnail/gvoila.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HCCS 2022/div><img src='images/paper_thumbnail/Sleep_Sounds.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Sleep Sound Classification Using ANC-Enabled Earbuds**
