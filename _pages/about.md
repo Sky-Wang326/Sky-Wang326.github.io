@@ -24,25 +24,71 @@ I am Zeyu Wang
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉🎉 Our dataset paper <a href=""> DreamCatcher: A Wearer-aware Multi-modal Sleep Event Dataset Based on Earables in Non-restrictive Environments </a> is accepted by <a href="https://neurips.cc/Conferences/2024/CallForDatasetsBenchmarks">NeurIPS 2024</a> Dataset&Benchmark Track as a <b>spotlight</b>!!!
-- *2024.09*: &nbsp;🎉🎉🎉 Our research paper <a href="https://arxiv.org/abs/2401.09454"> Voila-A: Aligning Vision-Language Models with User's Gaze Attention </a> is accepted by <a href="https://neurips.cc/">NeurIPS 2024</a> as a <b>spotlight</b>!!!
-- *2024.03*: &nbsp;🎉🎉 Our research paper <a href="https://arxiv.org/abs/2405.07652"> G-VOILA: Gaze-Facilitated Information Querying in Daily Scenarios </a> is accepted by <a href="https://www.ubicomp.org/ubicomp-iswc-2024/imwut_papers/">IMWUT 2024</a>!!!
+- *2024.09*: &nbsp;🎉🎉🎉 Our research paper <a href="https://arxiv.org/abs/2401.09454"> VOILA-A: Aligning Vision-Language Models with User's Gaze Attention </a> is accepted by <a href="https://neurips.cc/">NeurIPS 2024</a> as a <b>spotlight</b>!!!
+- *2024.03*: &nbsp;🎉🎉 Our research paper <a href="https://dl.acm.org/doi/10.1145/3659623"> G-VOILA: Gaze-Facilitated Information Querying in Daily Scenarios </a> is accepted by <a href="https://www.ubicomp.org/ubicomp-iswc-2024/imwut_papers/">IMWUT 2024</a>!!!
 - *2023.09*: &nbsp; 🚀 Starting my Ph.D. at Tsinghua University.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 D&B spotlight</div><img src='images/paper_thumbnail/dreamcatcher.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[DreamCatcher: A Wearer-aware Multi-modal Sleep Event Dataset Based on Earables in Non-restrictive Environments]()
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Zeyu Wang***, Xiyuxing Zhang*, Ruotong Yu*, Yuntao Wang, Kenneth Christofferson, Jingru Zhang, Alex Marakakis, Yuanchun Shi
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+to be appear at [NeurIPS 2024 Dataset&Benchmark Track](https://neurips.cc/Conferences/2024/CallForDatasetsBenchmarks)
+
+[**Repo**](https://github.com/thuhci/DreamCatcher) 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- -------------- -->
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 spotlight</div><img src='images/paper_thumbnail/voilaa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Voila-A: Aligning Vision-Language Models with User's Gaze Attention]()
+
+Kun Yan*, **Zeyu Wang***, Lei Ji, Yuntao Wang, Nan Duan, Shuai Ma
+
+to be appear at [NeurIPS 2024](https://neurips.cc/)
+
+[**Repo**](https://github.com/naykun/Voila-A), [**Paper**](https://arxiv.org/abs/2401.09454)
+</div>
+</div>
+
+<!-- -------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 D&B spotlight</div><img src='images/paper_thumbnail/gvoila.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[G-VOILA: Gaze-Facilitated Information Querying in Daily Scenarios]()
+
+**Zeyu Wang**, Yuanchun Shi, Yuntao Wang, Yuchen Yao, Kun Yan, Yuhan Wang, Lei Ji, Xuhai Xu, Chun Yu
+
+[IMWUT 2024](https://www.ubicomp.org/ubicomp-iswc-2024/imwut_papers/)
+
+[**Repo**](https://github.com/Sky-Wang326/gvoila), [**Paper**](https://dl.acm.org/doi/10.1145/3659623)
+</div>
+</div>
+
+
+<!-- -------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2024</div><img src='images/paper_thumbnail/gvoila.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[G-VOILA: Gaze-Facilitated Information Querying in Daily Scenarios]()
+
+**Zeyu Wang**, Yuanchun Shi, Yuntao Wang, Yuchen Yao, Kun Yan, Yuhan Wang, Lei Ji, Xuhai Xu, Chun Yu
+
+[IMWUT 2024](https://www.ubicomp.org/ubicomp-iswc-2024/imwut_papers/)
+
+[**Repo**](https://github.com/Sky-Wang326/gvoila), [**Paper**](https://dl.acm.org/doi/10.1145/3659623)
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
