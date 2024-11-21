@@ -77,7 +77,7 @@ to be appear at [NeurIPS 2024](https://neurips.cc/)
 
 <!-- -------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HCCS 2022/div><img src='images/paper_thumbnail/Sleep_Sounds.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">HCCS 2022/div><img src='images/paper_thumbnail/Sleep_Sounds.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Sleep Sound Classification Using ANC-Enabled Earbuds**
@@ -88,7 +88,7 @@ Kenneth Christofferson, Xuyang Chen, **Zeyu Wang**, Alex Marakakis, Yuntao Wang
 
 [**Paper**](https://ieeexplore.ieee.org/document/9767394)
 </div>
-</div>
+</div> -->
 
 
 
