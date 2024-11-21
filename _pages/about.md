@@ -90,18 +90,12 @@ Kenneth Christofferson, Xuyang Chen, **Zeyu Wang**, Alex Marakakis, Yuntao Wang
 </div>
 </div>
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
 
 # 📖 Educations
 - *2023.09 - 2028.06 (expected)*, Ph.D. in Department of Computer Science and Technology, Tsinghua University. 
 - *2019.08 - 2023.06*, B.S. in Department of Computer Science and Technology, Tsinghua University.
  
-
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
 - *2024.04 - now*, Microsoft Research Asia - EAI group, China.
