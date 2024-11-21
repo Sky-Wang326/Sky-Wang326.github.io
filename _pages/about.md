@@ -33,9 +33,9 @@ I am Zeyu Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 D&B spotlight</div><img src='images/paper_thumbnail/dreamcatcher.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DreamCatcher: A Wearer-aware Multi-modal Sleep Event Dataset Based on Earables in Non-restrictive Environments]()
+**DreamCatcher: A Wearer-aware Multi-modal Sleep Event Dataset Based on Earables in Non-restrictive Environments**
 
-**Zeyu Wang***, Xiyuxing Zhang*, Ruotong Yu*, Yuntao Wang, Kenneth Christofferson, Jingru Zhang, Alex Marakakis, Yuanchun Shi
+**Zeyu Wang\***, Xiyuxing Zhang\*, Ruotong Yu\*, Yuntao Wang, Kenneth Christofferson, Jingru Zhang, Alex Marakakis, Yuanchun Shi
 
 to be appear at [NeurIPS 2024 Dataset&Benchmark Track](https://neurips.cc/Conferences/2024/CallForDatasetsBenchmarks)
 
@@ -49,9 +49,9 @@ to be appear at [NeurIPS 2024 Dataset&Benchmark Track](https://neurips.cc/Confer
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 spotlight</div><img src='images/paper_thumbnail/voilaa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Voila-A: Aligning Vision-Language Models with User's Gaze Attention]()
+**Voila-A: Aligning Vision-Language Models with User's Gaze Attention**
 
-Kun Yan*, **Zeyu Wang***, Lei Ji, Yuntao Wang, Nan Duan, Shuai Ma
+Kun Yan\*, **Zeyu Wang\***, Lei Ji, Yuntao Wang, Nan Duan, Shuai Ma
 
 to be appear at [NeurIPS 2024](https://neurips.cc/)
 
@@ -61,10 +61,10 @@ to be appear at [NeurIPS 2024](https://neurips.cc/)
 
 <!-- -------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 D&B spotlight</div><img src='images/paper_thumbnail/gvoila.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2024</div><img src='images/paper_thumbnail/gvoila.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[G-VOILA: Gaze-Facilitated Information Querying in Daily Scenarios]()
+**G-VOILA: Gaze-Facilitated Information Querying in Daily Scenarios**
 
 **Zeyu Wang**, Yuanchun Shi, Yuntao Wang, Yuchen Yao, Kun Yan, Yuhan Wang, Lei Ji, Xuhai Xu, Chun Yu
 
@@ -77,30 +77,33 @@ to be appear at [NeurIPS 2024](https://neurips.cc/)
 
 <!-- -------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2024</div><img src='images/paper_thumbnail/gvoila.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HCCS 2022/div><img src='images/paper_thumbnail/gvoila.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[G-VOILA: Gaze-Facilitated Information Querying in Daily Scenarios]()
+**Sleep Sound Classification Using ANC-Enabled Earbuds**
 
-**Zeyu Wang**, Yuanchun Shi, Yuntao Wang, Yuchen Yao, Kun Yan, Yuhan Wang, Lei Ji, Xuhai Xu, Chun Yu
+Kenneth Christofferson, Xuyang Chen, **Zeyu Wang**, Alex Marakakis, Yuntao Wang
 
-[IMWUT 2024](https://www.ubicomp.org/ubicomp-iswc-2024/imwut_papers/)
+[HCCS 202](https://sites.google.com/view/hccs2022/)
 
-[**Repo**](https://github.com/Sky-Wang326/gvoila), [**Paper**](https://dl.acm.org/doi/10.1145/3659623)
+[**Paper**](https://ieeexplore.ieee.org/document/9767394)
 </div>
 </div>
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - 2028.06 (expected)*, Ph.D. in Department of Computer Science and Technology, Tsinghua University. 
+- *2019.08 - 2023.06*, B.S. in Department of Computer Science and Technology, Tsinghua University.
+ 
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.04 - now*, Microsoft Research Asia - EAI group, China.
+- *2022.01 - 2022.7*, Microsoft Research Asia - DKI group, China.
+- *2020.06 - 2021.09*, AMiner, China.
