@@ -28,6 +28,9 @@ I am a Ph.D. student in the Pervasive Interaction Lab at Tsinghua University, ad
 - *2024.03*: &nbsp;🎉🎉 Our research paper <a href="https://dl.acm.org/doi/10.1145/3659623"> G-VOILA: Gaze-Facilitated Information Querying in Daily Scenarios </a> is accepted by <a href="https://www.ubicomp.org/ubicomp-iswc-2024/imwut_papers/">IMWUT 2024</a>!!!
 - *2023.09*: &nbsp; 🚀 Starting my Ph.D. at Tsinghua University.
 
+
+
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 D&B spotlight</div><img src='images/paper_thumbnail/dreamcatcher.png' alt="sym" width="100%"></div></div>
@@ -37,9 +40,9 @@ I am a Ph.D. student in the Pervasive Interaction Lab at Tsinghua University, ad
 
 **Zeyu Wang\***, Xiyuxing Zhang\*, Ruotong Yu\*, Yuntao Wang, Kenneth Christofferson, Jingru Zhang, Alex Marakakis, Yuanchun Shi
 
-to be appear at [NeurIPS 2024 Dataset&Benchmark Track](https://neurips.cc/Conferences/2024/CallForDatasetsBenchmarks)
+[NeurIPS 2024 Dataset&Benchmark Track](https://neurips.cc/Conferences/2024/CallForDatasetsBenchmarks)
 
-[**Repo**](https://github.com/thuhci/DreamCatcher) 
+[**Repo**](https://github.com/thuhci/DreamCatcher), [**Paper**](https://proceedings.neurips.cc/paper_files/paper/2024/file/9ab8bb568825d49ce31aa87b7e2f4ad7-Paper-Datasets_and_Benchmarks_Track.pdf)
 </div>
 </div>
 
@@ -53,7 +56,7 @@ to be appear at [NeurIPS 2024 Dataset&Benchmark Track](https://neurips.cc/Confer
 
 Kun Yan\*, **Zeyu Wang\***, Lei Ji, Yuntao Wang, Nan Duan, Shuai Ma
 
-to be appear at [NeurIPS 2024](https://neurips.cc/)
+[NeurIPS 2024](https://neurips.cc/)
 
 [**Repo**](https://github.com/naykun/Voila-A), [**Paper**](https://arxiv.org/abs/2401.09454)
 </div>
@@ -87,6 +90,31 @@ Kenneth Christofferson, Xuyang Chen, **Zeyu Wang**, Alex Marakakis, Yuntao Wang
 [HCCS 202](https://sites.google.com/view/hccs2022/)
 
 [**Paper**](https://ieeexplore.ieee.org/document/9767394)
+</div>
+</div>
+
+
+# 📝 Preprints
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/paper_thumbnail/smartring.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Computing with Smart Rings: A Systematic Literature Review**
+
+**Zeyu Wang**, Ruotong Yu, Xiangyang Wang, Jiexin Ding, Jiankai Tang, Jun Fang, Zhe He, Zhuojun Li, Tobias Röddiger, Weiye Xu, Xiyuxing Zhang, Nan Gao, Chun Yu, Yuanchun Shi, Yuntao Wang
+
+[**Paper**](https://arxiv.org/pdf/2502.02459)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/paper_thumbnail/cogact.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Cogact: A foundational vision-language-action model for synergizing cognition and action in robotic manipulation**
+
+Qixiu Li\*, Yaobo Liang\*, **Zeyu Wang\***, Lin Luo, Xi Chen, Mozheng Liao, Fangyun Wei, Yu Deng, Sicheng Xu, Yizhong Zhang, Xiaofan Wang, Bei Liu, Jianlong Fu, Jianmin Bao, Dong Chen, Yuanchun Shi, Jiaolong Yang, Baining Guo
+
+[**Repo**](https://github.com/microsoft/CogACT), [**Paper**](https://arxiv.org/pdf/2411.19650), [**Model**](https://huggingface.co/CogACT)
 </div>
 </div>
 
