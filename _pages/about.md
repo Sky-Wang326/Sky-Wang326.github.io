@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in the Pervasive Interaction Lab at Tsinghua University, advised by <a href="https://scholar.google.com/citations?user=TZm3-pwAAAAJ">Prof. Yuanchun Shi</a>, and <a href="https://scholar.google.com/citations?user=kHpwoAUAAAAJ">A/Prof. Yuntao Wang</a>. My research focuses on sensing and interaction techniques for wearable devices. My research interests include gaze interaction, health monitoring, wearable computing, AI agents, and Vision Language Models.
+I am a Ph.D. candidate in the Pervasive Interaction Lab at Tsinghua University, advised by <a href="https://scholar.google.com/citations?user=TZm3-pwAAAAJ">Prof. Yuanchun Shi</a>, and <a href="https://scholar.google.com/citations?user=kHpwoAUAAAAJ">A/Prof. Yuntao Wang</a>. My research focuses on sensing and interaction techniques for wearable devices. My research interests include gaze interaction, health monitoring, wearable computing, AI agents, and Vision Language Models.
 
 
 
