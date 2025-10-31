@@ -17,12 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in the Pervasive Interaction Lab at Tsinghua University, advised by <a href="https://scholar.google.com/citations?user=TZm3-pwAAAAJ">Prof. Yuanchun Shi</a>, and <a href="https://scholar.google.com/citations?user=kHpwoAUAAAAJ">A/Prof. Yuntao Wang</a>. My research focuses on sensing and interaction techniques for wearable devices. My research interest includes gaze estimation and interpretation, health monitoring, wearable computing, AI agent, Vision Language Models.
+I am a Ph.D. student in the Pervasive Interaction Lab at Tsinghua University, advised by <a href="https://scholar.google.com/citations?user=TZm3-pwAAAAJ">Prof. Yuanchun Shi</a>, and <a href="https://scholar.google.com/citations?user=kHpwoAUAAAAJ">A/Prof. Yuntao Wang</a>. My research focuses on sensing and interaction techniques for wearable devices. My research interests include gaze interaction, health monitoring, wearable computing, AI agents, and Vision Language Models.
 
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+
 
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉🎉 Our survey paper <a href=""> Computing with Smart Rings: A Systematic Literature Review </a> is accepted by <a href="https://www.ubicomp.org/ubicomp-iswc-2025/imwut_papers/">IMWUT 2025</a>!!!
 - *2024.09*: &nbsp;🎉🎉🎉 Our dataset paper <a href=""> DreamCatcher: A Wearer-aware Multi-modal Sleep Event Dataset Based on Earables in Non-restrictive Environments </a> is accepted by <a href="https://neurips.cc/Conferences/2024/CallForDatasetsBenchmarks">NeurIPS 2024</a> Dataset&Benchmark Track as a <b>spotlight</b>!!!
 - *2024.09*: &nbsp;🎉🎉🎉 Our research paper <a href="https://arxiv.org/abs/2401.09454"> VOILA-A: Aligning Vision-Language Models with User's Gaze Attention </a> is accepted by <a href="https://neurips.cc/">NeurIPS 2024</a> as a <b>spotlight</b>!!!
 - *2024.03*: &nbsp;🎉🎉 Our research paper <a href="https://dl.acm.org/doi/10.1145/3659623"> G-VOILA: Gaze-Facilitated Information Querying in Daily Scenarios </a> is accepted by <a href="https://www.ubicomp.org/ubicomp-iswc-2024/imwut_papers/">IMWUT 2024</a>!!!
@@ -32,6 +33,18 @@ I am a Ph.D. student in the Pervasive Interaction Lab at Tsinghua University, ad
 
 
 # 📝 Publications 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2025</div><img src='images/paper_thumbnail/smartring.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Computing with Smart Rings: A Systematic Literature Review**
+
+**Zeyu Wang**, Ruotong Yu, Xiangyang Wang, Jiexin Ding, Jiankai Tang, Jun Fang, Zhe He, Zhuojun Li, Tobias Röddiger, Weiye Xu, Xiyuxing Zhang, Nan Gao, Chun Yu, Yuanchun Shi, Yuntao Wang
+
+[**Paper**](https://arxiv.org/pdf/2502.02459)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 D&B spotlight</div><img src='images/paper_thumbnail/dreamcatcher.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -96,16 +109,7 @@ Kenneth Christofferson, Xuyang Chen, **Zeyu Wang**, Alex Marakakis, Yuntao Wang
 
 # 📝 Preprints
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/paper_thumbnail/smartring.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-**Computing with Smart Rings: A Systematic Literature Review**
-
-**Zeyu Wang**, Ruotong Yu, Xiangyang Wang, Jiexin Ding, Jiankai Tang, Jun Fang, Zhe He, Zhuojun Li, Tobias Röddiger, Weiye Xu, Xiyuxing Zhang, Nan Gao, Chun Yu, Yuanchun Shi, Yuntao Wang
-
-[**Paper**](https://arxiv.org/pdf/2502.02459)
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/paper_thumbnail/cogact.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -126,6 +130,6 @@ Qixiu Li\*, Yaobo Liang\*, **Zeyu Wang\***, Lin Luo, Xi Chen, Mozheng Liao, Fang
  
 
 # 💻 Internships
-- *2024.04 - now*, Microsoft Research Asia - EAI group, China.
+- *2024.04 - 2024.12*, Microsoft Research Asia - EAI group, China.
 - *2022.01 - 2022.7*, Microsoft Research Asia - DKI group, China.
 - *2020.06 - 2021.09*, AMiner, China.
