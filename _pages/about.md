@@ -23,8 +23,9 @@ I am a Ph.D. candidate in the Pervasive Interaction Lab at Tsinghua University, 
 
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉🎉🎉 Our survey paper <a href=""> Computing with Smart Rings: A Systematic Literature Review </a> is accepted by <a href="https://www.ubicomp.org/ubicomp-iswc-2025/imwut_papers/">IMWUT 2025</a>!!!
-- *2024.09*: &nbsp;🎉🎉🎉 Our dataset paper <a href=""> DreamCatcher: A Wearer-aware Multi-modal Sleep Event Dataset Based on Earables in Non-restrictive Environments </a> is accepted by <a href="https://neurips.cc/Conferences/2024/CallForDatasetsBenchmarks">NeurIPS 2024</a> Dataset&Benchmark Track as a <b>spotlight</b>!!!
+- *2026.01*: &nbsp;🎉🎉 Our research paper <a href="https://arxiv.org/pdf/2602.23688"> Does Personalized Nudging Wear Off? A Longitudinal Study of AI Self-Modeling for Behavioral Engagement </a> is accepted by <a href="https://chi2026.acm.org/">CHI 2026</a>!!!
+- *2025.07*: &nbsp;🎉🎉 Our survey paper <a href="https://dl.acm.org/doi/pdf/10.1145/3749480"> Computing with Smart Rings: A Systematic Literature Review </a> is accepted by <a href="https://www.ubicomp.org/ubicomp-iswc-2025/imwut_papers/">IMWUT 2025</a>!!!
+- *2024.09*: &nbsp;🎉🎉🎉 Our dataset paper <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/9ab8bb568825d49ce31aa87b7e2f4ad7-Paper-Datasets_and_Benchmarks_Track.pdf"> DreamCatcher: A Wearer-aware Multi-modal Sleep Event Dataset Based on Earables in Non-restrictive Environments </a> is accepted by <a href="https://neurips.cc/Conferences/2024/CallForDatasetsBenchmarks">NeurIPS 2024</a> Dataset&Benchmark Track as a <b>spotlight</b>!!!
 - *2024.09*: &nbsp;🎉🎉🎉 Our research paper <a href="https://arxiv.org/abs/2401.09454"> VOILA-A: Aligning Vision-Language Models with User's Gaze Attention </a> is accepted by <a href="https://neurips.cc/">NeurIPS 2024</a> as a <b>spotlight</b>!!!
 - *2024.03*: &nbsp;🎉🎉 Our research paper <a href="https://dl.acm.org/doi/10.1145/3659623"> G-VOILA: Gaze-Facilitated Information Querying in Daily Scenarios </a> is accepted by <a href="https://www.ubicomp.org/ubicomp-iswc-2024/imwut_papers/">IMWUT 2024</a>!!!
 - *2023.09*: &nbsp; 🚀 Starting my Ph.D. at Tsinghua University.
@@ -34,6 +35,16 @@ I am a Ph.D. candidate in the Pervasive Interaction Lab at Tsinghua University, 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><img src='images/paper_thumbnail/Numb2Nudge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Does Personalized Nudging Wear Off? A Longitudinal Study of AI Self-Modeling for Behavioral Engagement**
+
+Qing He\*, **Zeyu Wang\***, Yuzhou Du, Jiahuan Ding, Yuanchun Shi, Yuntao Wang
+
+[**Paper**](https://arxiv.org/pdf/2602.23688)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2025</div><img src='images/paper_thumbnail/smartring.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
