@@ -150,6 +150,19 @@ Qixiu Li\*, Yaobo Liang\*, **Zeyu Wang\***, Lin Luo, Xi Chen, Mozheng Liao, Fang
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/paper_thumbnail/egointrospect.png' alt="EgoIntrospect overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**EgoIntrospect: An Egocentric Dataset and Benchmark for User-Centric Internal State Reasoning**
+
+**Zeyu Wang\***, Chang Liu\*, Eduardus Tjitrahardja, Yuntao Wang, Borislav Pavlov, Fangfei Gou, Jose Manuel Davila, Dai Shi, Ran Xu, Yue Pan, Jiayi Tan, Shuting Chang, Qi Wang, Jinzhao Li, Jiacheng Hua, Yifei Huang, Jingwei Sun, Yu Zhang, Liuxin Zhang, Guocai Yao, Jia Jia, Yin Li, Qianying Wang, Yuanchun Shi, Miao Liu
+
+[**Paper**](https://arxiv.org/abs/2605.17262),
+[**Project**](https://ego-introspect.github.io/)
+
+</div>
+</div>
+
 
 
 # 📖 Educations
