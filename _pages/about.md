@@ -44,7 +44,8 @@ I am a Ph.D. candidate in the Pervasive Interaction Lab at Tsinghua University, 
 
 **Zeyu Wang\***, Yingke Ding\*, Mingze Gao, Zhuolun Ren, Alex Mariakakis, Yuanchun Shi, Yuntao Wang
 
-[**Paper**](https://www.ubicomp.org/ubicomp-iswc-2026/accepted-papers/)
+[**Paper**](https://www.ubicomp.org/ubicomp-iswc-2026/accepted-papers/), 
+[**Apply for Demo**](https://pibbl.co/)
 </div>
 </div>
 
