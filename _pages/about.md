@@ -47,6 +47,10 @@ Yingke Ding*, **Zeyu Wang\***, Hongjing Piao, Leyi Zhang, William Hu, Ziyu Tang,
 Paper (coming soon) <!-- TODO: Add the AutoHabits paper URL. -->
 
 
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2026</div><img src='images/paper_thumbnail/pebbl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
