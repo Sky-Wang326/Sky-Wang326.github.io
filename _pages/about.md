@@ -37,10 +37,10 @@ I am a Ph.D. candidate in the Pervasive Interaction Lab at Tsinghua University, 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WearAgent 2026</div><img src='images/paper_thumbnail/AutoHabits.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp/WearAgent 2026</div><img src='images/paper_thumbnail/AutoHabits.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-AutoHabits: A Close-Looped Context-Aware System for Tiny Habits on Commercial Watches and Phones
+**AutoHabits: A Close-Looped Context-Aware System for Tiny Habits on Commercial Watches and Phones**
 
 Yingke Ding*, **Zeyu Wang\***, Hongjing Piao, Leyi Zhang, William Hu, Ziyu Tang, Wanying Mo, Yuanchun Shi, Yuntao Wang
 
