@@ -23,6 +23,7 @@ I am a Ph.D. candidate in the Pervasive Interaction Lab at Tsinghua University, 
 
 
 # 🔥 News
+- *2026.10*: &nbsp;🏆🏆 At UbiComp/ISWC 2026, **AutoHabits** received the <b>Best Paper Award</b> at <a href="https://wearagent.github.io/">WearAgent</a>, and <a href="https://dl.acm.org/doi/10.1145/3831976">Towards Wearable Opportunistic Crowdsensing</a> received the <b>Best Video Teaser Award</b>! <span title="YouTube link coming soon">Video Teaser (YouTube, coming soon)</span><!-- TODO: Add the YouTube video teaser URL once uploaded. -->
 - *2026.01*: &nbsp;🎉🎉 Our research paper <a href="https://dl.acm.org/doi/10.1145/3831976"> Towards Wearable Opportunistic Crowdsensing for Open-Vocabulary Activity Data Collection Through User-Scheduled Trigger-Action Routines </a> is accepted by <a href="https://www.ubicomp.org/ubicomp-iswc-2026/accepted-papers/">IMWUT 2026</a>!!!
 - *2026.01*: &nbsp;🎉🎉 Our research paper <a href="https://arxiv.org/pdf/2602.23688"> Does Personalized Nudging Wear Off? A Longitudinal Study of AI Self-Modeling for Behavioral Engagement </a> is accepted by <a href="https://chi2026.acm.org/">CHI 2026</a>!!!
 - *2025.07*: &nbsp;🎉🎉 Our survey paper <a href="https://dl.acm.org/doi/pdf/10.1145/3749480"> Computing with Smart Rings: A Systematic Literature Review </a> is accepted by <a href="https://www.ubicomp.org/ubicomp-iswc-2025/imwut_papers/">IMWUT 2025</a>!!!
@@ -35,6 +36,15 @@ I am a Ph.D. candidate in the Pervasive Interaction Lab at Tsinghua University, 
 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WearAgent 2026</div><img src='images/paper_thumbnail/AutoHabits.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+AutoHabits: A Close-Looped Context-Aware System for Tiny Habits on Commercial Watches and Phones
+
+Yingke Ding*, **Zeyu Wang\***, Hongjing Piao, Leyi Zhang, William Hu, Ziyu Tang, Wanying Mo, Yuanchun Shi, Yuntao Wang
+
+Paper (coming soon) <!-- TODO: Add the AutoHabits paper URL. -->
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2026</div><img src='images/paper_thumbnail/pebbl.png' alt="sym" width="100%"></div></div>
